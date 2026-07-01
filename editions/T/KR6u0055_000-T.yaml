@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0055/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋家觀化還愚經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2918.xml
+    old_id: T85n2918
+hash: sha256:e540229db0795f0ef3e636989d5aaa1521a214fd24feed25d40d1fea8bf0ed8b

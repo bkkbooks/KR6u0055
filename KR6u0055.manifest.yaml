@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6u0055/v1
+canonical_location: https://kanripo.org/bkk/KR6u0055/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋家觀化還愚經
+  identifiers:
+    alt_id:
+    - T85n2918
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2918.xml
+    old_id: T85n2918
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0055_000.yaml, hash: 'sha256:e540229db0795f0ef3e636989d5aaa1521a214fd24feed25d40d1fea8bf0ed8b'}
+  - {seq: 1, filename: KR6u0055_001.yaml, hash: 'sha256:a04baf663d5276abae563dfa4e141d57ab9ea816e571b73134ede9a0215d0203'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0055_001.markers.yaml, hash: 'sha256:8563091eb11af065d2ee84e6733efe4dfffaf59a88be600389705c6f34b37830'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0055_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 605
+  label: 釋家觀化還愚經
+  type: juan
+  level: 1
+hash: sha256:c94c4bd693a930d13bb68e19e59d7c6bcde3d08f1c74bc6ff7148b4420161404
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

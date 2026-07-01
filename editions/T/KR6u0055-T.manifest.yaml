@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6u0055/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0055/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋家觀化還愚經
+  identifiers:
+    krp: KR6u0055
+    cbeta: T85n2918
+    cbeta_old_id: T85n2918
+    authorityid: CA0004932
+    json_key: T2918
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2918.xml
+    old_id: T85n2918
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0055_000-T.yaml, hash: 'sha256:e540229db0795f0ef3e636989d5aaa1521a214fd24feed25d40d1fea8bf0ed8b'}
+  - {seq: 1, filename: KR6u0055_001-T.yaml, hash: 'sha256:fd6c08e3737d9a5aca3a2a5f1df5c60de4128b2cc115bb1903d7bdf433167071'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0055_000-T.markers.yaml, hash: 'sha256:301338e585849fdf37998160651c3ff1593d669c4309177fee0adf1dfca9c177'}
+  - {seq: 1, role: markers, filename: assets/KR6u0055_001-T.markers.yaml, hash: 'sha256:50a76419ff1a8c7bb3ebd14ef7d9771763befbf555443d48b43e45c2ecaf7d9c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0055_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 605
+  label: 釋家觀化還愚經
+  type: juan
+  level: 1
+hash: sha256:4f8b50da5d8929c1e5f58f71684fa14f7ee9455f1ba84b72f37c5468710dafbd
