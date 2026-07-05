@@ -16,7 +16,6 @@ markers:
   - {type: punctuation, offset: 40, content: 。, id: KR6u0055_T_001-bkkpn6}
   - {type: punctuation, offset: 44, content: 。, id: KR6u0055_T_001-bkkpn7}
   - {type: punctuation, offset: 48, content: 。, id: KR6u0055_T_001-bkkpn8}
-  - {type: substitution, offset: 49, original: 匃, replacement: 丐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0027}}
   - {type: line-break, offset: 50, content: '', id: KR6u0055_T_001-1462c08, ed: T, 'n': 1462c08}
   - {type: punctuation, offset: 52, content: 。, id: KR6u0055_T_001-bkkpn9}
   - {type: punctuation, offset: 56, content: 。, id: KR6u0055_T_001-bkkpn10}
@@ -51,11 +50,9 @@ markers:
   - {type: line-break, offset: 201, content: '', id: KR6u0055_T_001-1462c17, ed: T, 'n': 1462c17}
   - {type: punctuation, offset: 206, content: 。, id: KR6u0055_T_001-bkkpn31}
   - {type: punctuation, offset: 212, content: 。, id: KR6u0055_T_001-bkkpn32}
-  - {type: substitution, offset: 217, original: 瑠, replacement: 琉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1046}}
   - {type: line-break, offset: 218, content: '', id: KR6u0055_T_001-1462c18, ed: T, 'n': 1462c18}
   - {type: punctuation, offset: 220, content: 。, id: KR6u0055_T_001-bkkpn33}
   - {type: punctuation, offset: 224, content: 。, id: KR6u0055_T_001-bkkpn34}
-  - {type: substitution, offset: 226, original: 遶, replacement: 繞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0849}}
   - {type: punctuation, offset: 234, content: 。, id: KR6u0055_T_001-bkkpn35}
   - {type: line-break, offset: 235, content: '', id: KR6u0055_T_001-1462c19, ed: T, 'n': 1462c19}
   - {type: punctuation, offset: 241, content: 。, id: KR6u0055_T_001-bkkpn36}
@@ -79,7 +76,6 @@ markers:
   - {type: line-break, offset: 320, content: '', id: KR6u0055_T_001-1462c24, ed: T, 'n': 1462c24}
   - {type: punctuation, offset: 325, content: 。, id: KR6u0055_T_001-bkkpn50}
   - {type: punctuation, offset: 331, content: 。, id: KR6u0055_T_001-bkkpn51}
-  - {type: substitution, offset: 331, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 335, content: 。, id: KR6u0055_T_001-bkkpn52}
   - {type: line-break, offset: 336, content: '', id: KR6u0055_T_001-1462c25, ed: T, 'n': 1462c25}
   - {type: punctuation, offset: 343, content: 。, id: KR6u0055_T_001-bkkpn53}
@@ -102,7 +98,6 @@ markers:
   - {type: page-break, offset: 420, content: '', id: KR6u0055_T_001-1463a, 'n': 1463a, ed: T, source_xml_id: T85.2918.1463a}
   - {type: line-break, offset: 420, content: '', id: KR6u0055_T_001-1463a01, ed: T, 'n': 1463a01}
   - {type: punctuation, offset: 421, content: 。, id: KR6u0055_T_001-bkkpn66}
-  - {type: substitution, offset: 422, original: 瑠, replacement: 琉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1046}}
   - {type: punctuation, offset: 429, content: 。, id: KR6u0055_T_001-bkkpn67}
   - {type: punctuation, offset: 437, content: 。, id: KR6u0055_T_001-bkkpn68}
   - {type: line-break, offset: 437, content: '', id: KR6u0055_T_001-1463a02, ed: T, 'n': 1463a02}
@@ -146,4 +141,4 @@ markers:
   - {type: punctuation, offset: 605, content: 。, id: KR6u0055_T_001-bkkpn91}
   - {type: xml-element, offset: 605, content: '', id: pT85p1463a1101_end, name: p, role: close, attrs: {'xml:id': pT85p1463a1101}}
   back: []
-hash: sha256:8563091eb11af065d2ee84e6733efe4dfffaf59a88be600389705c6f34b37830
+hash: sha256:52aa1e1e636a908eccdd09f7456223230c7ae79ea9aa5608b82906a965e355ba

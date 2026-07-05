@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0055_000.yaml, hash: 'sha256:e540229db0795f0ef3e636989d5aaa1521a214fd24feed25d40d1fea8bf0ed8b'}
-  - {seq: 1, filename: KR6u0055_001.yaml, hash: 'sha256:a04baf663d5276abae563dfa4e141d57ab9ea816e571b73134ede9a0215d0203'}
+  - {seq: 1, filename: KR6u0055_001.yaml, hash: 'sha256:fd6c08e3737d9a5aca3a2a5f1df5c60de4128b2cc115bb1903d7bdf433167071'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0055_001.markers.yaml, hash: 'sha256:8563091eb11af065d2ee84e6733efe4dfffaf59a88be600389705c6f34b37830'}
+  - {seq: 0, role: markers, filename: assets/KR6u0055_000.markers.yaml, hash: 'sha256:5845d9e27ea81e77faea6c3f7e02e24707025e019d6a207da026b9610324fbc4'}
+  - {seq: 1, role: markers, filename: assets/KR6u0055_001.markers.yaml, hash: 'sha256:52aa1e1e636a908eccdd09f7456223230c7ae79ea9aa5608b82906a965e355ba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 釋家觀化還愚經
   type: juan
   level: 1
-hash: sha256:c94c4bd693a930d13bb68e19e59d7c6bcde3d08f1c74bc6ff7148b4420161404
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c1c681c1faee49ace6127f7336109f629a82693ebdd0f6df6e41651c08b7f649
 editions:
 - short: T
