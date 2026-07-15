@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0055/v1
 canonical_location: https://kanripo.org/bkk/KR6u0055/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 釋家觀化還愚經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0055_000.yaml, hash: 'sha256:e540229db0795f0ef3e636989d5aaa1521a214fd24feed25d40d1fea8bf0ed8b'}
-  - {seq: 1, filename: KR6u0055_001.yaml, hash: 'sha256:fd6c08e3737d9a5aca3a2a5f1df5c60de4128b2cc115bb1903d7bdf433167071'}
+  - {seq: 1, filename: KR6u0055_001.yaml, hash: 'sha256:08f25cfacca6c699c031f7fccbd280782be288057013dac146ac2d5125dcf929'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0055_000.markers.yaml, hash: 'sha256:5845d9e27ea81e77faea6c3f7e02e24707025e019d6a207da026b9610324fbc4'}
-  - {seq: 1, role: markers, filename: assets/KR6u0055_001.markers.yaml, hash: 'sha256:52aa1e1e636a908eccdd09f7456223230c7ae79ea9aa5608b82906a965e355ba'}
+  - {seq: 1, role: markers, filename: assets/KR6u0055_001.markers.yaml, hash: 'sha256:397566b115be96b737134352dd9c7ba26ad257e1cf6314ef7d9f6e3376eaf0bc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 釋家觀化還愚經
   type: juan
   level: 1
-hash: sha256:c1c681c1faee49ace6127f7336109f629a82693ebdd0f6df6e41651c08b7f649
+hash: sha256:d96088f2ceb450e49c592a9666f9c173f7dffd9b94931ffb508792011652c05e
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
